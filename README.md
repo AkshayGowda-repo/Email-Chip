@@ -1,10 +1,12 @@
-# Zepto Assignment mail chip Component
+# Zepto Assignment a mail chip Component.
 
 Open [Live Website](https://zepto-assessment.netlify.app/) to view it in your browser.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm i`
 
 ### `npm start`
 
